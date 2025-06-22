@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "question": "How long will it take for my order to arrive?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis rem quis architecto impedit beatae nostrum quam doloribus repellat! Necessitatibus iure, suscipit illum unde adipisci debitis et non exercitationem aut veniam"
+    },
+    {
+        "id": 2,
+        "question": "What shipping methods do you prefer?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis rem quis architecto impedit beatae nostrum quam doloribus repellat! Necessitatibus iure, suscipit illum unde adipisci debitis et non exercitationem aut veniam"
+    },
+    {
+        "id": 3,
+        "question": "Do you offer express or expedited shipping options?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis rem quis architecto impedit beatae nostrum quam doloribus repellat! Necessitatibus iure, suscipit illum unde adipisci debitis et non exercitationem aut veniam"
+    },
+    {
+        "id": 4,
+        "question": "What are your shipping rates?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis rem quis architecto impedit beatae nostrum quam doloribus repellat! Necessitatibus iure, suscipit illum unde adipisci debitis et non exercitationem aut veniam"
+    },
+    {
+        "id": 5,
+        "question": "What's the difference between standard shipping and expedited shipping?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis rem quis architecto impedit beatae nostrum quam doloribus repellat! Necessitatibus iure, suscipit illum unde adipisci debitis et non exercitationem aut veniam"
+    },
+    {
+        "id": 6,
+        "question": "Do you offer international shipping?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis rem quis architecto impedit beatae nostrum quam doloribus repellat! Necessitatibus iure, suscipit illum unde adipisci debitis et non exercitationem aut veniam"
+    },
+    {
+        "id": 7,
+        "question": "Are there any shipping restrictions for certain products?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis rem quis architecto impedit beatae nostrum quam doloribus repellat! Necessitatibus iure, suscipit illum unde adipisci debitis et non exercitationem aut veniam"
+    }
+]
